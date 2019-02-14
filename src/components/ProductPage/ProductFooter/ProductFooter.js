@@ -1,5 +1,5 @@
 import React from 'react';
-import './ProductFooter.css';
+import './ProductFooter.scss';
 import { Link } from 'react-router-dom';
 import logo from '../../../assets/images/logo-light-groww.svg';
 import fbicon from '../../../assets/images/fb-icon.png';

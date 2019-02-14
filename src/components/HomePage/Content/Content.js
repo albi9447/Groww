@@ -1,5 +1,5 @@
 import React from 'react';
-import './Content.css';
+import './Content.scss';
 import mutualfund from '../../../assets/images/mf-groww.png';
 import directgroww from '../../../assets/images/direct-groww.png';
 import freegroww from '../../../assets/images/free-groww.png';

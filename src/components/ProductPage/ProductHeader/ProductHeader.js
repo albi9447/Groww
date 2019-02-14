@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './ProductHeader.css';
+import './ProductHeader.scss';
 import { Link } from 'react-router-dom';
 import logo from '../../../assets/images/groww-logo.svg';
 import OutlinedInput from '@material-ui/core/OutlinedInput';
